@@ -9,7 +9,7 @@ function clean(text) {
 }
 
 const prefix = "_";
-const token = "NTkwOTM0Njk5NTM5NDMxNDkw.XQpc-A.ZwyL7JgBLJnkPVNOKLP6Kjnm7qc";
+const token = "NTkxMzI4NDYwODQwODk0NDY1.XQvMrA.PlK_nJd63PoLK5NmBpqkQCXnuUw";
 
 client.on("ready", () => {
   console.log("Vulnix | Logged in! Server count: ${client.guilds.size}");
